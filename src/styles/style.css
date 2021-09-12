@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&family=Reggae+One&display=swap');
+
+html {
+  font-family: 'Noto Serif JP', serif;
+}
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+}
+
+section {
+  margin: 32px 0 64px 0;
+}
+
+.siteTitle {
+  font-size: 300%;
+}
+
+.pageTop {
+  margin: 0 auto;
+  width: 100%;
+  column-count: 3;
+}
+
+.logoBox {
+  float: left;
+  width:100%;
+}
+
+.siteTitle {
+  font-size: 200%;
+  font-weight: bolder;
+}
+
+.midashi {
+  font-size: 150%;
+}
+
+.icons {
+  display: inline-block;
+}
+.icon {
+  display: inline-block;
+  width: 64px;
+}
